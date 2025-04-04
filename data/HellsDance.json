@@ -1,8 +1,8 @@
 {
     "id": 110,
     "name": "Hell's Dance",
-    "author(s)": "Noyan",
-    "creator(s)": ["Noyan"],
+    "author": "Noyan",
+    "creator": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://youtu.be/AbhXCsMmT0s"
     "percentToQualify": 17,
